@@ -74,7 +74,8 @@ https://en.wikipedia.org/wiki/IPC_(electronics)
 
 * Solder mask!
 
-![image](https://user-images.githubusercontent.com/72557903/205298943-06873dbd-155b-40dd-9358-e7d8e220879a.png)
+Solder mask is a thin layer of polymer that isput on a circuit board to protect the copper from oxidation and shorts during operation. It also protects the PCB from environmental influences such as dust and several other contaminants that may lead to shorts in the long run.It is due to the solder mask, which protects the copper circuits printed on the fiber glass core to prevent short circuits, soldering errors, etc. The color of the solder mask gives the board its appearance.
+
 
 * Reference designator!
 
@@ -85,6 +86,6 @@ https://dexpcb.com/manual/standard-reference-designators.htm
 
 The netlistcontains the electrical connections between the components on the circuit board, and is usually held in textual format (see EDIF). In printed circuit board production a netlist (generated from the production data) is used to carry out an electrical test (E-test) to find incorrect or missing connections
 
-
+PCB Manufacturing - StrangepartsYT
 
 
